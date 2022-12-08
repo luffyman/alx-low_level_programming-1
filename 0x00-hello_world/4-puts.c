@@ -1,31 +1,25 @@
-/*
- *
- *  * File: 4-put.c
- *
- *   * Auth: Stanislauskaunda
- *
- *    */
-
 #include <stdio.h>
 
 
 
 /**
  *
- *  * main- print to screen.
+ *  * main - Entry point
  *
  *   *
  *
- *    * Return: Always 0 (success)
+ *    * Return: Always 0 (Success)
  *
  *     */
 
+
+
 int main(void)
-	
+
 {
 
-	puts("\"Programming is like building a multilingual puzzle");
+		puts("\"Programming is like building a multilingual puzzle");
 
-	return (0);
+			return (0);
 
-}}
+}
